@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}The META{% endblock %}
+
+{% block content %}
+<table>
+	{% for meta_key,meta_value in alist%}
+	<tr>
+		<td>{{ meta_key }}</td><td>{{ meta_value }}</td>
+	</tr>>
+	{% endfor %}
+</table>
+{% endblock %}
