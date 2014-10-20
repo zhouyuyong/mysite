@@ -2,3 +2,4 @@
 作者：周玉勇
 日期：2014.10.20
 Git has a mutable index called stage
+1
