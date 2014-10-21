@@ -2,6 +2,7 @@ from django.conf.urls import patterns, include, url
 from django.contrib import admin
 from polls.views import *
 from books.views import *
+from contact.views import *
 
 
 urlpatterns = patterns(
@@ -19,4 +20,7 @@ urlpatterns = patterns(
     url(r'^current_url_view/$', current_url_view),
     url(r'^search_form/$', search_form),
     url(r'^search/$', search),
+    url(r'^contact_form/$', contact),
+    url(r'^contact/$', contact),
+    url(r'^thanks/$', thanks),
 )

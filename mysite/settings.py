@@ -41,6 +41,7 @@ INSTALLED_APPS = (
     'django.contrib.staticfiles',
     'polls',
     'books',
+    'contact',
 )
 
 MIDDLEWARE_CLASSES = (
@@ -92,3 +93,12 @@ USE_TZ = True
 STATIC_URL = '/static/'
 FILE_CHARSET = 'utf-8'
 DEFAULT_CHARSET = 'utf-8'
+
+
+#email settings
+EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
+EMAIL_USE_TLS = True
+EMAIL_HOST = 'smtp.126.com'
+EMAIL_HOST_USER = '13466582010@126.com'
+EMAIL_HOST_PASSWORD = 'zyy1986'
+EMAIL_PORT = 25
