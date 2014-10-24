@@ -1,4 +1,5 @@
 from django.conf.urls import patterns, include, url
+from django.conf import settings
 from django.contrib import admin
 from polls.views import *
 from books.views import *
@@ -24,3 +25,10 @@ urlpatterns = patterns(
     url(r'^contact/$', contact),
     url(r'^thanks/$', thanks),
 )
+
+
+#if settings.DEBUG:
+#    urlpatterns += patterns(
+#        'django.contrib.staticfiles.views',
+#        url(r'^static/(?P<path>.*)$', 'serve'),
+#    )

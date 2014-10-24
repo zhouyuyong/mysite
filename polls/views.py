@@ -9,7 +9,8 @@ from django.http import HttpResponse
 
 
 def hello(reques):
-    return HttpResponse("Hello world")
+    #return HttpResponse("Hello world")
+    return render_to_response("bootstrap.html")
 
 
 def current_url_view(request):

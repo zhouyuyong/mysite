@@ -91,6 +91,11 @@ USE_TZ = True
 # https://docs.djangoproject.com/en/1.7/howto/static-files/
 
 STATIC_URL = '/static/'
+STATIC_ROOT = '/home/zhouyuyong/mysit/static/'
+STATICFILES_DIRS = (
+    "css", "/home/zhouyuyong/mysite/bootstrap/",
+    "js", "/home/zhouyuyong/mysite/bootstrap/",
+)
 FILE_CHARSET = 'utf-8'
 DEFAULT_CHARSET = 'utf-8'
 
