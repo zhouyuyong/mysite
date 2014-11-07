@@ -23,9 +23,7 @@ SECRET_KEY = ')_9hafcp6)#o2gr7u#nh$1ds4(xh%vk02m^gd_kubdvkbmbt2r'
 DEBUG = True
 
 TEMPLATE_DEBUG = True
-TEMPLATE_DIRS = (
-    '/home/zhouyuyong/mysite/templates',
-)
+TEMPLATE_DIRS = [os.path.join(BASE_DIR, 'templates')]
 
 ALLOWED_HOSTS = []
 
