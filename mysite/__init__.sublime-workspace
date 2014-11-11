@@ -4,6 +4,50 @@
 		"selected_items":
 		[
 			[
+				"que",
+				"question	statement"
+			],
+			[
+				"Ht",
+				"HttpResponse"
+			],
+			[
+				"ques",
+				"question	statement"
+			],
+			[
+				"Htt",
+				"Http404	import"
+			],
+			[
+				"con",
+				"context	statement"
+			],
+			[
+				"templ",
+				"template	statement"
+			],
+			[
+				"loader",
+				"loader"
+			],
+			[
+				"ul",
+				"ul	Tag"
+			],
+			[
+				"htt",
+				"HttpResponse	import"
+			],
+			[
+				"pub",
+				"pub_date"
+			],
+			[
+				"cont",
+				"contrib"
+			],
+			[
 				"Re",
 				"RequestContext	import"
 			],
@@ -24,10 +68,6 @@
 				"contact_thanks	function"
 			],
 			[
-				"con",
-				"contact"
-			],
-			[
 				"error",
 				"error	statement"
 			],
@@ -38,10 +78,6 @@
 			[
 				"F",
 				"False	class"
-			],
-			[
-				"Htt",
-				"HttpResponse	import"
 			],
 			[
 				"requs",
@@ -62,10 +98,6 @@
 			[
 				"TEMP",
 				"TEMPLATE_DIRS"
-			],
-			[
-				"pub",
-				"publisher"
 			],
 			[
 				"fil",
@@ -128,42 +160,18 @@
 	"buffers":
 	[
 		{
-			"file": "/home/zhouyuyong/mysite/contact/views.py",
+			"file": "/home/zhouyuyong/mysite/polls/templates/polls/detail.html",
 			"settings":
 			{
-				"buffer_size": 952,
+				"buffer_size": 483,
 				"line_ending": "Unix"
 			}
 		},
 		{
-			"file": "/home/zhouyuyong/mysite/templates/contact_form.html",
+			"file": "/home/zhouyuyong/mysite/polls/models.py",
 			"settings":
 			{
-				"buffer_size": 877,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/zhouyuyong/mysite/templates/search_results.html",
-			"settings":
-			{
-				"buffer_size": 311,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "/home/zhouyuyong/mysite/contact/forms.py",
-			"settings":
-			{
-				"buffer_size": 464,
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "settings.py",
-			"settings":
-			{
-				"buffer_size": 2492,
+				"buffer_size": 1054,
 				"line_ending": "Unix"
 			}
 		},
@@ -171,7 +179,31 @@
 			"file": "urls.py",
 			"settings":
 			{
-				"buffer_size": 797,
+				"buffer_size": 496,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/zhouyuyong/mysite/polls/templates/polls/index.html",
+			"settings":
+			{
+				"buffer_size": 248,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/zhouyuyong/mysite/polls/views.py",
+			"settings":
+			{
+				"buffer_size": 1793,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/home/zhouyuyong/mysite/polls/templates/polls/results.html",
+			"settings":
+			{
+				"buffer_size": 263,
 				"line_ending": "Unix"
 			}
 		}
@@ -213,31 +245,40 @@
 	"expanded_folders":
 	[
 		"/home/zhouyuyong/mysite",
-		"/home/zhouyuyong/mysite/contact",
 		"/home/zhouyuyong/mysite/mysite",
 		"/home/zhouyuyong/mysite/polls",
-		"/home/zhouyuyong/mysite/templates"
+		"/home/zhouyuyong/mysite/polls/templates",
+		"/home/zhouyuyong/mysite/polls/templates/polls",
+		"/home/zhouyuyong/mysite/templates/admin"
 	],
 	"file_history":
 	[
-		"/home/zhouyuyong/mysite/books/views.py",
-		"/home/zhouyuyong/mysite/templates/contact_form.html",
-		"/home/zhouyuyong/mysite/contact/__init__.py",
-		"/home/zhouyuyong/mysite/contact/views.py",
-		"/home/zhouyuyong/mysite/templates/search_form.html",
-		"/home/zhouyuyong/mysite/templates/search_results.html",
-		"/home/zhouyuyong/mysite/mysite/urls.py",
-		"/home/zhouyuyong/mysite/templates/base.html",
-		"/home/zhouyuyong/mysite/templates/meta.html",
-		"/home/zhouyuyong/mysite/templates/hours_ahead.html",
 		"/home/zhouyuyong/mysite/polls/views.py",
-		"/home/zhouyuyong/mysite/books/admin.py",
-		"/home/zhouyuyong/mysite/templates/current_datetime.html",
-		"/home/zhouyuyong/mysite/mysite/settings.py",
-		"/home/zhouyuyong/mysite/books/models.py",
-		"/home/zhouyuyong/mysite/readme.txt",
+		"/home/zhouyuyong/mysite/contact/views.py",
+		"/home/zhouyuyong/mysite/polls/templates/polls/detail.html",
+		"/home/zhouyuyong/mysite/polls/templates/polls/index.html",
+		"/home/zhouyuyong/mysite/polls/urls.py",
 		"/home/zhouyuyong/mysite/polls/models.py",
 		"/home/zhouyuyong/mysite/polls/admin.py",
+		"/home/zhouyuyong/mysite/polls/migrations/0001_initial.py",
+		"/home/zhouyuyong/mysite/templates/bootstrap.html",
+		"/home/zhouyuyong/mysite/templates/contact_form.html",
+		"/home/zhouyuyong/mysite/templates/admin/base_site.html",
+		"/home/zhouyuyong/mysite/contact/forms.py",
+		"/home/zhouyuyong/mysite/mysite/settings.py",
+		"/home/zhouyuyong/mysite/mysite/urls.py",
+		"/home/zhouyuyong/mysite/templates/base.html",
+		"/home/zhouyuyong/mysite/templates/base_site.html",
+		"/home/zhouyuyong/mysite/books/views.py",
+		"/home/zhouyuyong/mysite/contact/__init__.py",
+		"/home/zhouyuyong/mysite/templates/search_form.html",
+		"/home/zhouyuyong/mysite/templates/search_results.html",
+		"/home/zhouyuyong/mysite/templates/meta.html",
+		"/home/zhouyuyong/mysite/templates/hours_ahead.html",
+		"/home/zhouyuyong/mysite/books/admin.py",
+		"/home/zhouyuyong/mysite/templates/current_datetime.html",
+		"/home/zhouyuyong/mysite/books/models.py",
+		"/home/zhouyuyong/mysite/readme.txt",
 		"/home/zhouyuyong/mysite/mysite/__init__.py",
 		"/home/zhouyuyong/mysite/test.py",
 		"/usr/share/applications/sublime_text.desktop",
@@ -261,6 +302,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"/home/zhouyuyong/mysite/",
 			"**",
 			"def search(request):\n    if 'q' in request.GET:\n        message = 'You searched for : %r' % request.GET['q']\n    else:\n        message = 'You submitted an empty form.'\n    return HttpResponse(message)\n",
 			"time",
@@ -282,76 +324,44 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 5,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "/home/zhouyuyong/mysite/contact/views.py",
+					"file": "/home/zhouyuyong/mysite/polls/templates/polls/detail.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 952,
+						"buffer_size": 483,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								387,
-								387
+								403,
+								403
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 0,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
 					"buffer": 1,
-					"file": "/home/zhouyuyong/mysite/templates/contact_form.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 877,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								261,
-								261
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 4,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "/home/zhouyuyong/mysite/templates/search_results.html",
+					"file": "/home/zhouyuyong/mysite/polls/models.py",
 					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 311,
+						"buffer_size": 1054,
 						"regions":
 						{
 						},
@@ -364,7 +374,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -374,46 +386,82 @@
 					"type": "text"
 				},
 				{
-					"buffer": 3,
-					"file": "/home/zhouyuyong/mysite/contact/forms.py",
+					"buffer": 2,
+					"file": "urls.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 464,
+						"buffer_size": 496,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								233,
-								233
-							],
-							[
-								262,
-								262
-							],
-							[
-								310,
-								310
-							],
-							[
-								352,
-								352
-							],
-							[
-								379,
-								379
-							],
-							[
-								441,
-								441
+								336,
+								336
 							]
 						],
 						"settings":
 						{
-							"open_with_edit": true,
-							"syntax": "Packages/Python/Python.tmLanguage",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/home/zhouyuyong/mysite/polls/templates/polls/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 248,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								109,
+								109
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/home/zhouyuyong/mysite/polls/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1793,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								840,
+								840
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
+							"tab_size": 4,
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
@@ -424,63 +472,32 @@
 					"type": "text"
 				},
 				{
-					"buffer": 4,
-					"file": "settings.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 2492,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1294,
-								1294
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 756.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
 					"buffer": 5,
-					"file": "urls.py",
+					"file": "/home/zhouyuyong/mysite/polls/templates/polls/results.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 797,
+						"buffer_size": 263,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								786,
-								786
+								263,
+								263
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage",
-							"tab_size": 4,
-							"translate_tabs_to_spaces": true
+							"open_with_edit": true,
+							"syntax": "Packages/Djaneiro/Syntaxes/HTML (Django).tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 2,
+					"stack_index": 0,
 					"type": "text"
 				}
 			]
